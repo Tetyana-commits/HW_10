@@ -1,0 +1,152 @@
+    1  ls
+    2  clear
+    3  cd
+    4  cd:dz_goit
+    5  help
+    6  clear
+    7  cd
+    8  cd
+    9  cd HW_10
+   10  cd dz
+   11  cd HW
+   12  cd: HW
+   13  cd
+   14  clear
+   15  cd/HW_10
+   16  ls HW_10
+   17  ls dz_goit
+   18  cd/dz_goit
+   19  touch text_ignore.txt
+   20  cd/HW_10-main
+   21  clear
+   22  cd d
+   23  cd HW_10
+   24  cd/dz_goit
+   25  cd/OneDrive/Тетяна-особистий/Робоий стіл/dz_goit/HW_10
+   26  cd/акт
+   27  clear
+   28   ~/.bash_history
+   29  cd HW_10
+   30  touch text_ignore.txt
+   31  cd [/HW_10]
+   32  chdir HW_10
+   33  cd
+   34  man
+   35  man man
+   36  man -k open
+   37  cd C:
+   38  clear
+   39  cd HW_10
+   40  git add.
+   41  ls
+   42  man cd
+   43  help cd
+   44  help ls
+   45  cd HW_10
+   46  touch text_ignore1.txt
+   47  ls
+   48  git status
+   49  git add
+   50  git add.
+   51  git --help
+   52  git add.1
+   53  add
+   54  git add --ignore-errors
+   55  git add .
+   56  clear
+   57  touch text_ignore.txt
+   58  git status
+   59  clear
+   60  cd desktop
+   61  cd акт
+   62  cd Desktop
+   63  cd HW_10
+   64  ls
+   65  cd My Documents
+   66  cd My %
+   67  clear
+   68  cd My
+   69  cd My Documents
+   70  cd [My Documents]
+   71  cd Downloads
+   72  ls
+   73  cd HW_10
+   74  touch text_ignore.txt
+   75  ls
+   76  git status
+   77  git add.
+   78  git add
+   79  touch text_ignore.txt
+   80  git status
+   81  git add .
+   82  git commit -m
+   83  git commit
+   84  git config --global user.email "tatyakorg@gmail.com"
+   85  git config -- global user.name "Tetyana-commits"
+   86  git config --global user.name "Тетяна"
+   87  git commit
+   88  cd HW_10
+   89  git status
+   90  git config user.email "193703090+Tetyana-commits.@user.norely.github.com"
+   91  git config user.name "Тетяна"
+   92  touch text_ignore.txt
+   93  git status
+   94  git add .
+   95  git commit
+   96  cd HW_10
+   97  git config -- global user.name "Тетяна"
+   98  git config --global user.name "Tetyana-commits"
+   99  git config -- global user.email tatyakorg@gmail.com
+  100  git config -- global user.email 193703090+Tetyana-commits@users.norely.github.com
+  101  git config -- global user.email "tatyakorg@gmail.com"
+  102  git config -- global user.email 193703090+Tetyana-commits@users.noreply.github.com
+  103  git config -- global user.email "193703090+Tetyana-commits@users.noreply.github.com"
+  104  
+  105  git --help
+  106  clear
+  107  touch text_ignore.txt
+  108  ls
+  109  nano .gitignore
+  110  git status
+  111  git add .
+  112  git commit -a 
+  113  cd dz_goit
+  114  cd tatya
+  115  cd c/Users/tatya
+  116  git config--global user.name "Tetyana-commits"
+  117  git config --global user.name "Tetyana-commits"
+  118  git config --global user.email tatyakorg@gmail.com
+  119  git clone github.com/Tetyana-commits/HW_10
+  120  git clone https://github.com/Tetyana-commits/HW_10
+  121  cd tatya
+  122  cd :/c/Users/tatya
+  123  ls
+  124  cd Downloads
+  125  git clone https://github.com/Tetyana-commits/HW_10
+  126  cd Downloads
+  127  cd
+  128  cd Documents
+  129  git clone https://github.com/Tetyana-commits/HW_10
+  130  cd HW_10
+  131  touch text_ignore.txt
+  132  nano .gitignore
+  133  git status
+  134  git add .
+  135  git commit -m "Task 1"
+  136  git status
+  137  touch main_test.txt
+  138  git add .
+  139  git commit -m "Task 2"
+  140  git checkout -b branch_develop
+  141  touch develop_test.txt
+  142  git add .
+  143  git commit -m "Task 3.1"
+  144  nano develop_test.txt
+  145  git status
+  146  git add .
+  147  git commit -m "Task 3.2"
+  148  git checkout main
+  149  git branch
+  150  git merge branch_develop
+  151  git log
+  152  history>command_list.csv
